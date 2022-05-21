@@ -78,7 +78,10 @@
 ## Ⅲ. 세부 작품 내용
 ### 1) 구상도   
  ![구상도](/img/diagram.png)
-### 2) 소스코드 (주석)
+### 2) 소스코드
+[Keypad module - Arduino Uno 1](https://github.com/dev-dahye/WIZNETIAN-IoT-Contest/blob/main/src/uno1.ino)   
+[Camera module - Arduino Uno 2](https://github.com/dev-dahye/WIZNETIAN-IoT-Contest/blob/main/src/uno2.ino)   
+[Blynk - Arduino Mega](https://github.com/dev-dahye/WIZNETIAN-IoT-Contest/blob/main/src/mega.ino)   
 ### 3) 회로도
 <Keypad module - Arduino Uno 1>   
  ![회로도](/img/schematic1.png)   
