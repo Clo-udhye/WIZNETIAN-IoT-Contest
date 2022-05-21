@@ -1,8 +1,13 @@
 # 스마트 도어락 시스템
 기간 : 2017.03.26~2017.06.21   
-참여인원: 4명   
+참여인원: 4명  
 
+<br>
 
+## 작동 동영상
+[![작동 동영상](http://img.youtube.com/vi/nrlpH3PSiG4/0.jpg)](https://youtu.be/nrlpH3PSiG4)
+
+<br>
 
 ## Ⅰ. 개요
 
